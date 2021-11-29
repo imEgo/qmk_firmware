@@ -1,0 +1,25 @@
+{
+    "keyboard_name": "EBStudio N81 RGB",
+    "url": "https://github.com/imEgo/ebstudio-keyboards/tree/master/n81_rgb",
+    "maintainer": "qmk",
+    "layouts": {
+        "LAYOUT": {
+            "layout": [
+                {"label":"", "x": 0, "y": 0},
+                {"label":"Fn", "x": 1, "y": 0},
+
+                {"label":"Space", "x": 0, "y": 1},
+                {"label":"Alt", "x": 1, "y": 1},
+
+                {"label":"Shift", "x": 0, "y": 2},
+                {"label":"Ctrl", "x": 1, "y": 2},
+
+                {"label":"Up", "x": 0, "y": 3},
+                {"label":"Down", "x": 1, "y": 3},
+
+                {"label":"Left", "x": 0, "y": 4},
+                {"label":"Right", "x": 1, "y": 4}
+            ]
+        }
+    }
+}
